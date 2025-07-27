@@ -22,7 +22,7 @@
             {
                 "label": "Flat Cursor",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Flat Cursor-color-theme.json"
+                "path": "./themes/Flat Cursor.json"
             }
         ]
     }
